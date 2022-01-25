@@ -26,6 +26,7 @@ namespace problem_solving_2
                     Console.WriteLine($"{item[0]}{item.Length - 2}{item[item.Length - 1]}");
                 }
             }
+            
 
         }
     }
