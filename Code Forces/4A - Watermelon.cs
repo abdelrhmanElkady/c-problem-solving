@@ -14,7 +14,6 @@ namespace Watermelon
             }
             else
                 Console.WriteLine("NO");
- 
         }
     }
 }
