@@ -27,6 +27,7 @@ namespace problem_solving_2
                     solvedProblems++;
                 }
             }
+            
 
             Console.WriteLine(solvedProblems);
         }
