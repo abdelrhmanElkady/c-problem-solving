@@ -27,7 +27,6 @@ namespace problem_solving_2
                 }
             }
             
-
         }
     }
 }
